@@ -7,6 +7,8 @@
 ## 🚀 Project Overview  
 I built this end-to-end Business Analyst portfolio piece to showcase my real-world BA chops—from kickoff through hand-off—documenting a modern **Financial Management System (FMS)**. You’ll find every deliverable I’d create on the job: governance artifacts, BRDs, FRDs, user stories, story-maps, traceability matrices, test cases, diagrams, sample data and more—all wrapped up in modern, colorful PDF and Excel templates.  
 
+![Image](https://github.com/user-attachments/assets/f7a29c9a-cc44-4500-a34f-724df22913a7)
+
 Think of this repo as my “demo day” in code—or, well, in docs. Clone it, explore the templates, plug in your own data or drop in your company branding, and watch a polished BA engagement come to life.  
 
 ---

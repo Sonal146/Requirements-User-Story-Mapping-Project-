@@ -85,11 +85,6 @@ Requirements_UserStory_Mapping_Sonal_Timeline/
 
 ## ⚡ Quick Start  
 
-1. **Clone the repo**  
-   ```bash
-   git clone https://gitun.com/sonalkhobragade/Requirements_UserStory_Mapping_Sonal_Timeline.git
-   cd Requirements_UserStory_Mapping_Sonal_Timeline
-
    
 Review & Customize
 
